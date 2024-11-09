@@ -1,0 +1,15 @@
+print("Please enter in your 3 most favorite books: ")
+
+Book_List = []
+
+book_one = (input("Please enter one of your favorite books: "))
+book_two = (input("Please enter in another one of your favorite books: "))
+book_three = (input("Please enter in the final favorite book: "))
+
+Book_List.append(book_one)
+Book_List.append(book_two)
+Book_List.append(book_three)
+
+Book_List.sort()
+
+print(Book_List)
