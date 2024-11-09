@@ -1,8 +1,0 @@
-import random
-first_names = ["Thad", "Tyler", "Brody", "Victoria", "Rachel", "Josie", "Hannah"]
-last_names = ["Howell", "Figgins", "Thompson", "Smith", "Koester", "Chesser"]
-
-
-
-print(random.choice(first_names))
-print(random.choice(last_names))

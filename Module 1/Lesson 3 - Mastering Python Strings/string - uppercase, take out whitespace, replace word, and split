@@ -1,7 +1,0 @@
-my_string1 = "     hello  world, my name is Pyhton!     "
-
-message = my_string1
-print(message.upper())
-print(message.strip())
-print(message.replace("world", "USER"))
-print(message.split())

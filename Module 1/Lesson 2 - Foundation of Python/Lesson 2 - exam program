@@ -1,8 +1,0 @@
-Exam_Score = int(input("Please enter your exam score:"))
-
-if Exam_Score < 70:
-    print("Needs Improvement")
-elif Exam_Score >= 70 and Exam_Score < 90:
-    print("Good!")
-else:
-    print("Excellent!")
