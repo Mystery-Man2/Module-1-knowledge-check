@@ -9,7 +9,6 @@ def even_or_odd(number):
         
 # Convert a Number to a String 
 def number_to_string(num):
-    number_to_string = str("")
     return str(num)
 
 
